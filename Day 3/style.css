@@ -1,0 +1,12 @@
+.box{
+    width: full;
+    height: 30px;
+    display: flex;
+    flex-direction:row colum;
+    justify-content: space-between;
+    margin: 10px;
+}
+.image1,.image2{
+    width: 100px;
+    border-radius: 50%;
+}

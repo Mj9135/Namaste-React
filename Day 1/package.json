@@ -1,0 +1,31 @@
+{
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "Day3",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mj9135/Namaste-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mj9135/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Mj9135/Namaste-React#readme",
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

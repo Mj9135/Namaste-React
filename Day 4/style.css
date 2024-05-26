@@ -1,0 +1,40 @@
+.header {
+  width: full;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+.logo {
+  width: 100px;
+  border-radius: 50%;
+}
+.nav-items > ul {
+  display: flex;
+
+  list-style: none;
+}
+.nav-items ul li {
+  padding: 10px;
+  cursor: pointer;
+}
+.bodycard {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.card {
+  margin: auto;
+  height: 500px;
+  width: 190px;
+  margin-top: 20px;
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+  gap: -60px;
+}
+.card img {
+  width: 100%;
+}
