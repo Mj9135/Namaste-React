@@ -1,0 +1,15 @@
+.card1 {
+  border: 2px solid black;
+  width: 25%;
+  height: 300px;
+  font-size: 20px;
+  padding: 10px;
+}
+.cardd {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-evenly;
+}
